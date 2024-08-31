@@ -67,10 +67,7 @@ ___
   <a href="https://github.com/DannyBoy3310"><img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"></a>
 </p>
 
+___
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-footer-image.png" alt="Footer Image" />
+  <img src="clipart4767071.png" alt="Footer Image" height = "200" width = "200"/>
 </p>
