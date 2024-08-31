@@ -1,8 +1,8 @@
 <p align = "center" >
   <pre>
-╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  ╦ ╦╔═╗╦═╗╔═╗  ┬
-║║║║╣ ║  ║  ║ ║║║║║╣   ╠═╣║╣ ╠╦╝║╣   │
-╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  ╩ ╩╚═╝╩╚═╚═╝  o
+                                        ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  ╦ ╦╔═╗╦═╗╔═╗  ┬
+                                        ║║║║╣ ║  ║  ║ ║║║║║╣   ╠═╣║╣ ╠╦╝║╣   │
+                                        ╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  ╩ ╩╚═╝╩╚═╚═╝  o
   </pre>
 </p>
 
@@ -13,8 +13,7 @@
 Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years of experience in building and optimizing data solutions on AWS. I love transforming raw data into actionable insights and architecting scalable cloud solutions.
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-aws-badge.png](https://no-kill-switch.ghost.io/content/images/size/w1200/2018/01/aws.jpg)" alt="AWS Badge" />
-  <img src="https://user-images.githubusercontent.com/your-cloud-expertise-banner.png" alt="Cloud Expertise" />
+  <img width="100" height="100" src="aws badge.svg" alt="AWS Badge" />
 </p>
 
 ---
@@ -46,12 +45,18 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years o
 > "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius
 
 ---
+### 📊 LeetCode Status
+![LeetCode Stats](https://leetcard.jacoblin.cool/DannyBoy3310?theme=dark&font=Taviraj&ext=heatmap)
+> "Here's my Leetcode":   <a href="https://leetcode.com/u/DannyBoy3310/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="Leetcode"></a>
 
+___
 ### 🌍 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Medium&logoColor=white" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/daniel-abraham-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.instagram.com/_urs_abraham_samuel_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://wa.me/8870301070"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
 </p>
 
 ---
@@ -59,11 +64,11 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years o
 ### 📫 Reach Me
 <p align="center">
   <a href="mailto:abrahamsamuel3310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration">
+  <a href="https://github.com/DannyBoy3310"><img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"></a>
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/YourGitHubUsername" alt="Profile views">
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
 </p>
 
 <p align="center">
