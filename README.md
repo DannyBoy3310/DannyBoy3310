@@ -1,5 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-banner.png" alt="Welcome Banner" />
+<p align = "center" >
+  <pre>
+╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  ╦ ╦╔═╗╦═╗╔═╗  ┬
+║║║║╣ ║  ║  ║ ║║║║║╣   ╠═╣║╣ ╠╦╝║╣   │
+╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  ╩ ╩╚═╝╩╚═╚═╝  o
+  </pre>
 </p>
 
 ### Hi there, I'm Daniel Abraham R 👋
@@ -9,7 +13,7 @@
 Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years of experience in building and optimizing data solutions on AWS. I love transforming raw data into actionable insights and architecting scalable cloud solutions.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-aws-badge.png" alt="AWS Badge" />
+  <img src="[https://user-images.githubusercontent.com/your-aws-badge.png](https://no-kill-switch.ghost.io/content/images/size/w1200/2018/01/aws.jpg)" alt="AWS Badge" />
   <img src="https://user-images.githubusercontent.com/your-cloud-expertise-banner.png" alt="Cloud Expertise" />
 </p>
 
