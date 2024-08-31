@@ -69,5 +69,5 @@ ___
 
 ___
 <p align="center">
-  <img src="clipart4767071.png" alt="Footer Image" height = "200" width = "200"/>
+  <img src="good-morning.gif" alt="Footer Image" height = "200" width = "400"/>
 </p>
