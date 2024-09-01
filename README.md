@@ -1,12 +1,11 @@
 <p align = "center" >
   <pre>
-                                        ╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  ╦ ╦╔═╗╦═╗╔═╗  ┬
-                                        ║║║║╣ ║  ║  ║ ║║║║║╣   ╠═╣║╣ ╠╦╝║╣   │
-                                        ╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  ╩ ╩╚═╝╩╚═╚═╝  o
+
+█░█ █   ▀█▀ █░█ █▀▀ █▀█ █▀▀   ░   █   ▄▀█ █▀▄▀█   █▀▄ ▄▀█ █▄░█ █ █▀▀ █░░   ▄▀█ █▄▄ █▀█ ▄▀█ █░█ ▄▀█ █▀▄▀█   █▀█
+█▀█ █   ░█░ █▀█ ██▄ █▀▄ ██▄   █   █   █▀█ █░▀░█   █▄▀ █▀█ █░▀█ █ ██▄ █▄▄   █▀█ █▄█ █▀▄ █▀█ █▀█ █▀█ █░▀░█   █▀▄
   </pre>
 </p>
 
-### Hi there, I'm Daniel Abraham R 👋
 
 #### 🚀 AWS Data Engineer | Cloud Enthusiast | Tech Explorer
 
@@ -22,19 +21,19 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years o
 - 💼 **Current Role:** Data Engineer at Tata Consultancy Services (TCS)
 - 🎓 **Education:** Bachelor's degree from VSB Engineering College, India
 - ☁️ **Cloud Expertise:** AWS (EC2, S3, Lambda, RDS, Redshift, EMR, Glue, Athena)
-- 📊 **Data Tools:** SQL, Python, Apache Spark, ETL
-- 💡 **Hobbies:** Blogging about cloud tech, Contributing to open-source, Solving coding challenges
-
+- 📊 **Data Tools:** SQL, Python, Apache Spark, ETL, DBT
+- 💡 **Hobbies:** Learning about tech, Contributing to open-source, Solving coding challenges and Play Guitar 🎸
 ---
 
 ### 🔧 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-FF9901?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop">
   <img src="https://img.shields.io/badge/DBT-FF69B4?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=data&logoColor=white" alt="ETL">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
