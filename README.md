@@ -67,6 +67,10 @@ ___
 </p>
 
 ___
+
+Visitor's Count: ![Visitor Count](https://profile-counter.glitch.me/DannyBoy3310/count.svg)
+
+___
 <p align="center">
   <img src="good-morning.gif" alt="Footer Image" height = "200" width = "400"/>
 </p>
