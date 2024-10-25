@@ -7,7 +7,7 @@
 </p>
 
 
-#### 🚀 AWS Data Engineer | Cloud Enthusiast | Tech Explorer
+#### 🚀 AWS Data Engineer | Cloud Enthusiast | Tech Explorer | DBT Expert
 
 Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years of experience in building and optimizing data solutions on AWS. I love transforming raw data into actionable insights and architecting scalable cloud solutions.
 
