@@ -1,76 +1,134 @@
-<p align = "center" >
-  <pre>
+<div align="center">
 
-█░█ █   ▀█▀ █░█ █▀▀ █▀█ █▀▀   ░   █   ▄▀█ █▀▄▀█   █▀▄ ▄▀█ █▄░█ █ █▀▀ █░░   ▄▀█ █▄▄ █▀█ ▄▀█ █░█ ▄▀█ █▀▄▀█   █▀█
-█▀█ █   ░█░ █▀█ ██▄ █▀▄ ██▄   █   █   █▀█ █░▀░█   █▄▀ █▀█ █░▀█ █ ██▄ █▄▄   █▀█ █▄█ █▀▄ █▀█ █▀█ █▀█ █░▀░█   █▀▄
-  </pre>
-</p>
+# Daniel Abraham R
 
+### Data Engineer | AWS | Apache Spark | PySpark | Airflow | dbt | Lakehouse
 
-#### 🚀 AWS Data Engineer | Cloud Enthusiast | Tech Explorer | DBT Expert
+**Building scalable data platforms, distributed data pipelines, and cloud-native data solutions.**
 
-Welcome to my GitHub profile! I'm a passionate Data Engineer with over 2 years of experience in building and optimizing data solutions on AWS. I love transforming raw data into actionable insights and architecting scalable cloud solutions.
+[![GitHub](https://img.shields.io/badge/GitHub-DannyBoy3310-181717?style=flat&logo=github)](https://github.com/DannyBoy3310)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://daniel-portfolio-lemon.vercel.app)
 
-<p align="center">
-  <img width="100" height="100" src="aws badge.svg" alt="AWS Badge" />
-</p>
+</div>
 
 ---
 
-### 🌟 About Me
-- 💼 **Current Role:** Data Engineer at Tata Consultancy Services (TCS)
-- 🎓 **Education:** Bachelor's degree from VSB Engineering College, India
-- ☁️ **Cloud Expertise:** AWS (EC2, S3, Lambda, RDS, Redshift, EMR, Glue, Athena)
-- 📊 **Data Tools:** SQL, Python, Apache Spark, ETL, DBT
-- 💡 **Hobbies:** Learning about tech, Contributing to open-source, Solving coding challenges and Play Guitar 🎸
----
+## 👨‍💻 About Me
 
-### 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9901?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop">
-  <img src="https://img.shields.io/badge/DBT-FF69B4?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow">
-  <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge&logo=data&logoColor=white" alt="ETL">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+I'm a **Data Engineer with 4+ years of experience** designing, building, and optimizing scalable data platforms and distributed data processing solutions.
 
----
+Currently working as a **Data Engineer Consultant at Deloitte USI**, with previous experience at **Tata Consultancy Services (TCS)**.
 
-### 💬 Personal Mantra
-> "You have power over your mind — not outside events. Realize this, and you will find strength." — Marcus Aurelius
+My work focuses on building reliable and scalable data systems using **AWS, Apache Spark, PySpark, Python, SQL, Apache Airflow, dbt, and modern lakehouse technologies**.
 
----
-### 📊 LeetCode Status
-![LeetCode Stats](https://leetcard.jacoblin.cool/DannyBoy3310?theme=dark&font=Taviraj&ext=heatmap)
-> "Here's my Leetcode":   <a href="https://leetcode.com/u/DannyBoy3310/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" alt="Leetcode"></a>
+I enjoy solving problems around **large-scale data processing, ETL/ELT, workflow orchestration, data platform modernization, performance optimization, and cloud cost efficiency**.
 
-___
-### 🌍 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-abraham-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://www.instagram.com/_urs_abraham_samuel_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://wa.me/8870301070"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
-
-</p>
+- 💼 **Current Role:** Data Engineer Consultant — Deloitte USI
+- 🧑‍💻 **Experience:** 4+ years in Data Engineering
+- ☁️ **Cloud:** AWS
+- ⚡ **Processing:** Apache Spark / PySpark
+- 🔄 **Orchestration:** Apache Airflow / AWS MWAA
+- 🧱 **Architecture:** Data Lake, Lakehouse, Medallion Architecture
+- 🧩 **Transformation:** dbt, SQL, PySpark
+- 🗂️ **Storage:** Amazon S3, Apache Iceberg
+- 📊 **Analytics:** Amazon Redshift
+- 📈 **Scale:** 1TB+ data processing experience
+- 🐳 **Containers:** Docker
+- 🔧 **Development:** Python, SQL, Bash
 
 ---
 
-### 📫 Reach Me
-<p align="center">
-  <a href="mailto:abrahamsamuel3310@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/DannyBoy3310"><img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"></a>
-</p>
+# 🛠️ Tech Stack
 
-___
+### 👨‍💻 Languages
 
-Visitor's Count: ![Visitor Count](https://profile-counter.glitch.me/DannyBoy3310/count.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
-___
-<p align="center">
-  <img src="good-morning.gif" alt="Footer Image" height = "200" width = "400"/>
-</p>
+### ⚡ Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-4B5563?style=flat)
+
+`PySpark` · `ETL` · `ELT` · `Data Modeling` · `Data Quality` · `Distributed Processing`
+
+### ☁️ AWS
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+
+`S3` · `Glue` · `EMR` · `Redshift` · `EC2` · `MWAA` · `Kinesis` · `SNS` · `CloudWatch`
+
+### 🗄️ Databases & Storage
+
+`Amazon Redshift` · `Oracle` · `DB2` · `MySQL` · `MongoDB` · `Amazon S3` · `MinIO`
+
+### 🔧 Engineering & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+`Boto3` · `Pandas` · `NumPy` · `Jinja2` · `CI/CD` · `REST APIs`
+
+---
+
+# 🏗️ Featured Projects
+
+## 🔹 Metadata-Driven Data Ingestion Framework
+
+**PySpark · SQL · Apache Airflow · AWS Glue · Amazon S3**
+
+A reusable metadata-driven ingestion framework designed to standardize data ingestion and reduce repetitive pipeline development.
+
+### Key Features
+
+- Metadata-driven pipeline execution
+- Reusable PySpark ingestion components
+- Parameterized ingestion workflows
+- Apache Airflow orchestration
+- AWS Glue Data Catalog integration
+- Configurable source-to-target processing
+- Scalable batch data processing
+
+### Architecture
+
+```text
+                Data Sources
+                     │
+                     ▼
+              ┌─────────────┐
+              │  Metadata   │
+              │ Configuration│
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   Airflow   │
+              │     DAG     │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   PySpark   │
+              │   Engine    │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │   Amazon S3 │
+              │  Data Lake  │
+              └──────┬──────┘
+                     │
+                     ▼
+              ┌─────────────┐
+              │ Glue Catalog│
+              └─────────────┘
